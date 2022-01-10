@@ -6,6 +6,7 @@
  ---
  # 🔗 2° passo
    - Revisão dos conceitos de [flex box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
-   - Elaboração dos código da home.
+   - Elaboração dos código html da home.
+   - Aplicação de estilo a home.
 
  
