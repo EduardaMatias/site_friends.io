@@ -1,4 +1,4 @@
-# 🩹 Fã page Friends
+# 📌 Fã page Friends
 ---
 # 🔗 1° passo
  - Video aula de Figma no [youtube](https://www.youtube.com/watch?v=8zRVHWMetE0&t=1099s).
