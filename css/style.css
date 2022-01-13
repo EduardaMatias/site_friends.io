@@ -80,18 +80,6 @@ li {
     max-height: 300px;
 }
 
-.conteudo-secundario{
-    width: 301px;
-    height: 260px;
-    background-color: #C4C4C4;
-}
-
-.conteudo-secundario img {
-    position: relative;
-    top: -15px;
-    left: -15px;
-}
-
 .rodape {
     background-color: black;
     width: 100%;
